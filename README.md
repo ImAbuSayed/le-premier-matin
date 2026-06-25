@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-premier-matin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Le Premier Matin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-premier-matin/) |
+| **Get License** | [License this song: Le Premier Matin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-premier-matin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9fe0bdb4462f38f636baa3a6b3d4452245f64343b6a79e0831b4fce7b397c07d` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
