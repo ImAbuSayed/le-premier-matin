@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons bleus, la nuit nous appartient
+> Ton regard me brûle, babe, tu le sais bien
+> On roule sans limite, just chasing the thrill
+> Ton corps contre le mien, the world is standing still
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
